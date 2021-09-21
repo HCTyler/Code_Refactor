@@ -9,6 +9,6 @@ UCSD Coding Bootcamp: 01 HTML, CSS, and Git: Code Refactor Homework
         <il>The HTML elements follows a logical structure</li>
         <il>The icons and images has an accessible alt attributes</il>
         <il>The heading attributes fall in sequential order</il>
-        <il>The title element is concise and descriptive</il>
+        The title element is concise and descriptive
     </ul>
 
